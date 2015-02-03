@@ -1,0 +1,13 @@
+{
+    "name": "php_ci_book/blogapp",
+    "authors": [
+        {
+            "name": "kkytdev",
+            "email": "kkytkhhm@yahoo.co.jp"
+        }
+    ],
+    "config": {
+       "vendor-dir": "Vendor"
+    },
+    "require": {}
+}
